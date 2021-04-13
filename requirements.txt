@@ -1,0 +1,10 @@
+
+requests
+termcolor
+aiofiles
+sanic
+fortnitepy
+FortniteAPIAsync
+BenBotAsync
+crayons
+PeelyPack
