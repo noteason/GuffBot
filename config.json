@@ -1,5 +1,5 @@
 {
-    "email": "peelybot@peelybot.com",
+    "email": "noteason@protonmail.com",
     "password": "PASSWORD",
     "cid": "cid_349_athena_commando_m_banana",
     "bid": "BID_004_BlackKnight",
@@ -9,8 +9,11 @@
     "level": "100",
     "bp_tier": "100",
     "status": "YOUR STATUS HERE!",
+    "joinmessage": "",
     "platform": "WIN",
     "friendaccept": "True",
     "joinoninvite": "True",
-    "AdminPassword": "9999"
+    "AdminPassword": "9999",
+    "DISCORDBOT": "",
+    "PREFIXDISCORD": "!"
 }
