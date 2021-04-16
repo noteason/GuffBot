@@ -4,7 +4,7 @@ from threading import Thread
 app = Flask('')
 
 
-@app.route('/running')
+@app.route('/runn')
 def main():
     return "Project Running! | Thanks For Using PeelyBot"
 
