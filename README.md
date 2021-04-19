@@ -23,3 +23,4 @@
 
 # NOW JUST ADD YOUR BOT ON FORTNITE AND YOUR DONE! 
 ### Credits : terbau(fortnitepy). Oli (some of the code)
+[![Run on Repl.it](https://repl.it/badge/github/noteason/PEELYBOT-V1)](https://repl.it/github/noteason/PEELYBOT-V1)
