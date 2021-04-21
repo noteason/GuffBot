@@ -2,7 +2,9 @@
 
 ## Github : [click here](https://github.com/noteason)
 ## TikTok : [@PeelyBotFn](https://tiktok.com/@peelybotfn)
-## DISCORD SERVER : [PeelyBot](https://discord.gg/5GSdFtcApG)
+## Discord Support
+<a href="https://discord.gg/ZNZA5YaTdV"><img src="https://discordapp.com/api/guilds/830438934445293611/widget.png?style=banner2"></a>
+
 ## if you would like to see the source code please dm noteason#8626 on discord!
 ##
 # HOW TO USE PEELYBOT
