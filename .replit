@@ -1,2 +1,2 @@
 language = "python3"
-run = "pip install PeelyPack --upgrade\npip3 install -r requirements.txt\npython3 peely.py" 
+run = "python3 main.py" 
