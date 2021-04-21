@@ -1,17 +1,30 @@
-{
-    "email": "botemail@email.com",
+{   
+    "email": "noteason@protonmail.com",
     "password": "PASSWORD",
-    "cid": "cid_349_athena_commando_m_banana",
-    "bid": "BID_004_BlackKnight",
+
+
+    "cid": "CID_814_Athena_Commando_M_BananaSummer",
+    "bid": "BID_266_BunkerMan",
     "pid": "Pickaxe_Lockjaw",
-    "banner": "brseason01",
-    "banner_color": "defaultcolor7",
-    "level": "100",
-    "bp_tier": "100",
-    "status": "YOUR STATUS HERE!",
-    "joinmessage": "",
+    "banner": "BRSeason03HappyCloud",
+    "banner_color": "defaultcolor6",
+    "level": "825", 
+    "bp_tier": "825",
+    "status": "Made With PeelyBot v2",
+    "joinmessage": "Made With PeelyBot v2",
     "platform": "WIN",
+
+
     "friendaccept": "True",
     "joinoninvite": "True",
-    "AdminPassword": "1234"
+    "AdminPassword": "9999",
+    "FullAccess": [],
+
+
+    "TOKEN": "DISCORD_BOT_TOKEN",
+    "PREFIXDISCORD": "!",
+
+    "TWITCH": "https://twitch.tv/ninja",
+
+    "DiscordStatus": "Made With PeelyBot v2"
 }
