@@ -8,3 +8,4 @@ FortniteAPIAsync
 BenBotAsync
 crayons
 PeelyPack
+discord
