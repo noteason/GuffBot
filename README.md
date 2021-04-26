@@ -1,2 +1,2 @@
 # GuffBot 😍
-[![サポートサーバー](https://discordapp.com/api/guilds/718709023427526697/widget.png?style=banner2)]
+[![サポートサーバー](https://discordapp.com/api/guilds/830438934445293611/widget.png?style=banner2)]
