@@ -1,30 +1,37 @@
 {   
-    "email": "noteason@peelybotadmins.com",
+    "email": "YourEmail@Provider.com",
     "password": "PASSWORD",
 
 
-    "cid": "CID_814_Athena_Commando_M_BananaSummer",
-    "bid": "BID_266_BunkerMan",
+    "cid": "CID_477_Athena_Commando_F_SpaceSuit",
+    "style": "1",
+
+    "bid": "bid_105_ghostportal",
+    "bidstyle": "1",
+    
     "pid": "Pickaxe_Lockjaw",
+    "eid": "EID_HipHop01",
     "banner": "BRSeason03HappyCloud",
     "banner_color": "defaultcolor6",
     "level": "825", 
     "bp_tier": "825",
-    "status": "Made With PeelyBot v2",
-    "joinmessage": "Made With PeelyBot v2",
+    "status": "https://discord.gg/ZNZA5YaTdV",
+    "icon": "CID_477_Athena_Commando_F_SpaceSuit",
+    "colors": ["#ffffff", "#ee1064", "#ff0000"],
+    "joinmessage": "Made with GuffBot \n TikTok : @noteason \n YouTube : noteason \n Twitch : tiktoknoteason",
     "platform": "WIN",
 
 
     "friendaccept": "True",
-    "joinoninvite": "True",
+    "joinoninvite": "False",
     "AdminPassword": "9999",
     "FullAccess": [],
 
-
-    "TOKEN": "DISCORD_BOT_TOKEN",
+    "DiscordBot": "True",
+    "TOKEN": "Nzg0MjM0MjkzMzc1MDA4ODE5.X8mVGQ.CXY0pzthNEG6XD3s9eSjB7vbVBw",
     "PREFIXDISCORD": "!",
 
     "TWITCH": "https://twitch.tv/ninja",
 
-    "DiscordStatus": "Made With PeelyBot v2"
+    "DiscordStatus": "Made With GuffBot"
 }
