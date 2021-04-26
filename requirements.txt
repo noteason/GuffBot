@@ -7,5 +7,5 @@ fortnitepy
 FortniteAPIAsync
 BenBotAsync
 crayons
-PeelyPack
+GuffBotPack
 discord
