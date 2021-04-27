@@ -1,31 +1,31 @@
 {   
-    "email": "YourEmail@Provider.com",
+    "email": "email@email.com",
     "password": "PASSWORD",
 
 
-    "cid": "CID_477_Athena_Commando_F_SpaceSuit",
+    "cid": "cid_313_athena_commando_m_kpopfashion",
     "style": "1",
 
     "bid": "bid_105_ghostportal",
     "bidstyle": "1",
     
-    "pid": "Pickaxe_Lockjaw",
-    "eid": "EID_HipHop01",
+    "pid": "Pickaxe_ID_376_FNCS",
+    "eid": "EID_BunnyFlop",
     "banner": "BRSeason03HappyCloud",
     "banner_color": "defaultcolor6",
-    "level": "825", 
-    "bp_tier": "825",
-    "status": "https://discord.gg/ZNZA5YaTdV",
+    "level": "25", 
+    "bp_tier": "25",
+    "status": "Made With GuffBot",
     "icon": "CID_477_Athena_Commando_F_SpaceSuit",
     "colors": ["#ffffff", "#ee1064", "#ff0000"],
-    "joinmessage": "Made with GuffBot \n TikTok : @noteason \n YouTube : noteason \n Twitch : tiktoknoteason",
+    "joinmessage": "Made With GuffBot",
     "platform": "WIN",
 
 
     "friendaccept": "True",
     "joinoninvite": "False",
     "AdminPassword": "9999",
-    "FullAccess": [],
+    "FullAccess": ["noteason"],
 
     "DiscordBot": "True",
     "TOKEN": "token",
@@ -33,5 +33,7 @@
 
     "TWITCH": "https://twitch.tv/ninja",
 
+    "DiscordStatus": "GuffBot v2"
+}
     "DiscordStatus": "Made With GuffBot"
 }
