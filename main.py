@@ -1,1 +1,1 @@
-import GuffBotPack
+import GuffBotPackage
