@@ -1,5 +1,5 @@
 {   
-    "email": "email@email.com",
+    "email": "noteason@protonmail.com",
     "password": "PASSWORD",
 
 
@@ -7,31 +7,29 @@
     "style": "1",
 
     "bid": "bid_105_ghostportal",
-    "bidstyle": "1",
+    "bidstyle": "3",
     
     "pid": "Pickaxe_ID_376_FNCS",
-    "eid": "EID_BunnyFlop",
-    "banner": "BRSeason03HappyCloud",
-    "banner_color": "defaultcolor6",
-    "level": "25", 
-    "bp_tier": "25",
+    "eid": "EID_Basketball",
+    "banner": "InfluencerBanner26",
+    "banner_color": "defaultcolor2",
+    "level": "398", 
+    "bp_tier": "398",
     "status": "Made With GuffBot",
     "icon": "CID_477_Athena_Commando_F_SpaceSuit",
     "colors": ["#ffffff", "#ee1064", "#ff0000"],
-    "joinmessage": "Made With GuffBot",
+    "joinmessage": "Made With GuffBot\nTikTok : @noteason\nYouTube : NotEason\nDiscord : discord.gg/m8WmtSWpM9",
     "platform": "WIN",
 
 
     "friendaccept": "True",
-    "joinoninvite": "False",
-    "AdminPassword": "9999",
-    "FullAccess": ["noteason"],
+    "joinoninvite": "True",
 
     "DiscordBot": "True",
     "TOKEN": "token",
-    "PREFIXDISCORD": "!",
+    "PREFIXDISCORD": "-",
 
     "TWITCH": "https://twitch.tv/ninja",
 
-    "DiscordStatus": "GuffBot v2"
+    "DiscordStatus": "Made With ❤"
 }
