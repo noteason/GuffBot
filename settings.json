@@ -1,35 +1,34 @@
 {   
-    "email": "noteason@protonmail.com",
+    "email": "youremail@email.com",
     "password": "PASSWORD",
 
 
-    "cid": "cid_313_athena_commando_m_kpopfashion",
-    "style": "1",
+    "cid": "CID_029_Athena_Commando_F_Halloween",
+    "style": "3",
 
     "bid": "bid_105_ghostportal",
     "bidstyle": "3",
     
     "pid": "Pickaxe_ID_376_FNCS",
     "eid": "EID_Basketball",
-    "banner": "InfluencerBanner26",
-    "banner_color": "defaultcolor2",
-    "level": "398", 
-    "bp_tier": "398",
-    "status": "Made With GuffBot",
+    "banner": "brseason01",
+    "banner_color": "defaultcolor1",
+    "level": "48", 
+    "bp_tier": "48",
+    "status": "use code noteason #ad",
     "icon": "CID_477_Athena_Commando_F_SpaceSuit",
     "colors": ["#ffffff", "#ee1064", "#ff0000"],
-    "joinmessage": "Made With GuffBot\nTikTok : @noteason\nYouTube : NotEason\nDiscord : discord.gg/m8WmtSWpM9",
+    "joinmessage": "ㅤ",
     "platform": "WIN",
 
 
     "friendaccept": "True",
-    "joinoninvite": "True",
+    "joinoninvite": "False",
+    
+    "RunDiscordBot": "False",
 
-    "DiscordBot": "True",
     "TOKEN": "token",
     "PREFIXDISCORD": "-",
-
     "TWITCH": "https://twitch.tv/ninja",
-
-    "DiscordStatus": "Made With ❤"
+    "DiscordStatus": "Made With GuffBot"
 }
