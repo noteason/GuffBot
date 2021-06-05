@@ -1,7 +1,7 @@
 
 # GuffBot LobbyBot 🎉
 
-### [Discord Server](https://discord.gg/7DVRGUcFkp)
+<a target="_blank" href="discord.gg/EGyDJhrXw7" title="Join our Discord!"> <img draggable="false" src="https://discordapp.com/api/guilds/849653185383759922/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!"> </a>
 
 ![preview](https://cdn.noteason.repl.co/images/popout.png)
 
