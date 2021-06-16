@@ -1,34 +1,36 @@
 {   
-    "email": "youremail@email.com",
+    "email": "noteason@protonmail.com",
     "password": "PASSWORD",
+    "Owner": ["10b813b6c0a4460ab0a5acc5e5aa1402"],
 
 
-    "cid": "CID_029_Athena_Commando_F_Halloween",
-    "style": "3",
+    "cid": "CID_A_096_Athena_Commando_F_TaxiUpgradedMulticolor",
+    "style": "2",
 
-    "bid": "bid_105_ghostportal",
+    "bid": "BID_168_CupidWinterMale",
     "bidstyle": "3",
     
     "pid": "Pickaxe_ID_376_FNCS",
-    "eid": "EID_Basketball",
-    "banner": "brseason01",
-    "banner_color": "defaultcolor1",
+    "eid": "EID_Ruckus",
+    "banner": "InfluencerBanner27",
+    "banner_color": "defaultcolor16",
     "level": "48", 
     "bp_tier": "48",
     "status": "use code noteason #ad",
     "icon": "CID_477_Athena_Commando_F_SpaceSuit",
     "colors": ["#ffffff", "#ee1064", "#ff0000"],
-    "joinmessage": "ㅤ",
-    "platform": "WIN",
+    "joinmessage": "Your Join Message",
+    "platform": "PSN",
 
 
     "friendaccept": "True",
-    "joinoninvite": "False",
+    "joinoninvite": "True",
+    "HideOnJoin": "True",
     
-    "RunDiscordBot": "False",
+    "RunDiscordBot": "True",
 
-    "TOKEN": "token",
+    "TOKEN": "DISCORDBOTTOKEN",
     "PREFIXDISCORD": "-",
     "TWITCH": "https://twitch.tv/ninja",
-    "DiscordStatus": "Made With GuffBot"
+    "DiscordStatus": "TikTok: @noteason"
 }
