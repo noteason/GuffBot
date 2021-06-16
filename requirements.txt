@@ -7,5 +7,6 @@ fortnitepy
 FortniteAPIAsync
 BenBotAsync
 crayons
-GuffBotPack
+GuffBotPackage
 discord
+EpicEndPoints
